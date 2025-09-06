@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React, MERN Stack, and AI/ML fundamentals**.  
 - 💬 Ask me about **React, Vue, and GSAP**.  
 - 📫 Reach me at **nayabgauhar8@gmail.com**.  
-- 👨‍💻 Projects: **https://github.com/nayabgauhar**  
+- 👨‍💻 Projects: **https://github.com/Nayab-Gauhar**  
 - 📝 I regularly write about **AI, Web Dev, and Hackathon Experiences** (blog coming).  
 - 📄 Resume: **(link coming soon / use GitHub repo README for now)**  
 - ⚡ Fun fact: *I think I’m funny.*  
